@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @amirhesamzarini
+- 👀 I’m interested in Programming & Robatic
+- 🌱 I’m currently learning Python
+- 💞️ I’m not looking to collaborate on anything yet
+- 📫 How to reach me in telegram : @amirhesamm
